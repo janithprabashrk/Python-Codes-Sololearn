@@ -11,3 +11,5 @@ print(Uppered)
 
 """The map() function applies a specified function to every element in an iterable, like lists or tuples. 
 It produces a result that can be transformed into a list using the list() function for easy viewing or further use."""
+#The map function takes two arguments - an iterable and Function
+#iterable means canbe iterable like lists, tuples
