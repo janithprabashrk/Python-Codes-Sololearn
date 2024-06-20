@@ -12,5 +12,5 @@ def uppercase(func):
         return mod_message
     return wrapper
 
-greet_upper = uppercase(great)
+greet_upper = uppercase(greet)
 print(greet_upper())
