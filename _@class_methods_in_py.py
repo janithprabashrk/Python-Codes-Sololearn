@@ -7,7 +7,6 @@ class MyClass:
         return cls.class_variable
 
 # Calling the class method directly using the class name
-# Llamando al método de clase directamente usando el nombre de la clase
 result = MyClass.class_method(5)
 print(result)  # Output will be 5
 
