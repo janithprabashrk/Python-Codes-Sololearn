@@ -20,6 +20,8 @@ class Car:
 
 # Creating an instance of the Car class
 my_car = Car("Toyota", "Camry", 2020, "Red")
+
+
 print(my_car.color)
 
 # Display the car's information
